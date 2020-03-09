@@ -4,7 +4,7 @@ go从入门到放弃的产物，shellcode本地加载器
 
 用法：
 
-1. 用cs或者msf生成c语言文件把其中的shellcode复制到一个txt里，此处命名为bobo.txt
+1. 用cs或者msf生成c源码文件把其中的shellcode复制到一个txt里，此处命名为bobo.txt
 
 2. 把bobo.txt和golauncher.exe放入同个文件夹内
 
