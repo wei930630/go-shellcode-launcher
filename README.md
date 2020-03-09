@@ -10,7 +10,7 @@ go从入门到放弃的产物，shellcode本地加载器
 
 3. 执行命令 golauncher.exe bobohacker bobo.txt
 
-其中，bobohacker为运行密码。在源码中是以md5加密存在。
+其中，bobohacker为运行密码。在源码中是以md5加密存在。//以密码的命名来膜拜一下我的偶像bobo老师
 
 个人go入门产物仅供学习参考
 
